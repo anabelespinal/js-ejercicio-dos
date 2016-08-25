@@ -3,11 +3,12 @@
 
 ~~~
 
-**PSEUDOCODIGO:
+**PSEUDOCODIGO:**
 1-INICIO
 2-Leer datos:
-      +dato uno
-      +dato dos
+      *dato uno
+      *dato dos
+      *dato tres
 3-Promediar datos
 4-Entregar datos
 5-Fin
