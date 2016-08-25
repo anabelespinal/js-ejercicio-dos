@@ -1,5 +1,5 @@
 ***
-#EJERCICIO 1
+#EJERCICIO 2
 
 ~~~
 
@@ -8,7 +8,7 @@
 2-Leer datos:
       +dato uno
       +dato dos
-3-Sumar datos
+3-Promediar datos
 4-Entregar datos
 5-Fin
 
